@@ -93,4 +93,4 @@ else if (nivel == "Lendário")
 else if (nivel == "Imortal")
     nivel = nivel.rainbow;
 
-console.log("O Herói tem um saldo de " + saldoVitorias + " vitórias e está no Rank : " + nivel)
+console.log(`O Herói tem um saldo de ${saldoVitorias}  vitórias e está no Rank :  ${nivel}`)
